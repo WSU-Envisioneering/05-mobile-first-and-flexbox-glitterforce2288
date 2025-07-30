@@ -1,1 +1,6 @@
 /* Your styles go here */
+
+body{
+    background-image: linear-gradient(rgb(231, 148, 166), pink) ;
+}
+
